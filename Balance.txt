@@ -1,0 +1,155 @@
+Accounts
+Disponibilidades
+Inversiones temporales
+Cuentas por cobrar comerciales, neto
+Otras cuentas por cobrar
+Anticipo a proveedores
+Inventarios
+Gastos anticipados
+Total Activo corriente
+Inversiones permanentes
+Otras cuentas por cobrar
+Activo Fijo, neto
+Total Activo no corriente
+TOTAL ACTIVO
+Deudas Comerciales
+Deudas Bancarias y Financieras
+Deudas por Emisión de Valores
+Otras Cuentas por Pagar
+Anticipos recibidos de clientes
+Total Pasivo corriente
+Deudas Bancarias y Financieras
+Provisión para indemnizaciones
+Total Pasivo no corriente
+TOTAL PASIVO
+Capital Pagado
+Ajuste de capital
+Ajuste de reservas patrimoniales
+Reserva legal
+Resultados acumulados
+TOTAL PATRIMONIO NETO
+TOTAL PASIVO Y PATRIMONIO NETO
+Accounts
+Jun-21
+34.737.900
+12.490
+203.969.154
+247.513.536
+102.191.620
+595.582.621
+14.521.361
+1.198.528.683
+872.244
+-
+518.627.610
+519.499.854
+1.718.028.537
+89.995.683
+330.582.572
+49.147.680
+8.394.586
+36.747.138
+514.867.658
+340.754.142
+9.630.367
+350.384.508
+865.252.166
+301.274.000
+279.790.869
+30.543.672
+23.937.507
+217.230.322
+852.776.371
+1.718.028.537
+Jun-22
+136.023.620
+108.356.162
+103.661.094
+407.427.015
+50.363.560
+973.201.761
+30.994.228
+1.810.027.439
+866.794
+489.547.525
+490.414.319
+2.300.441.758
+55.274.163
+920.659.988
+35.488.470
+41.882.876
+23.569.557
+1.076.875.054
+253.888.665
+6.922.685
+260.811.350
+1.337.686.404
+301.274.000
+275.964.418
+30.287.252
+27.151.684
+328.077.999
+962.755.354
+2.300.441.758
+Jun-23
+31.926.588
+366.984
+308.495.670
+557.582.607
+200.768.617
+560.273.689
+21.033.469
+1.680.447.623
+846.268
+7.169.461
+452.503.883
+460.519.612
+2.140.967.235
+187.992.561
+662.118.741
+166.625.804
+43.130.866
+11.225.481
+1.071.093.453
+53.710.172
+7.318.376
+61.028.548
+1.132.122.001
+301.274.000
+262.102.832
+28.950.592
+33.188.798
+383.329.011
+1.008.845.234
+2.140.967.235
+Sep-23
+188.699.547
+364.966
+110.698.944
+541.451.631
+196.610.150
+367.502.232
+19.132.623
+1.424.460.093
+840.401
+8.975.677
+442.677.589
+452.493.667
+1.876.953.760
+53.430.146
+560.489.614
+76.760.383
+45.695.639
+20.281.196
+756.656.978
+75.725.000
+7.044.894
+82.769.894
+839.426.872
+301.274.000
+258.150.098
+28.514.613
+37.543.123
+412.045.054
+1.037.526.888
+1.876.953.760
